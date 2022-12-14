@@ -18,4 +18,4 @@ st.sidebar.caption("</Shahnab>")
 
 st.subheader("Image to Music AI Generator")
 # embed streamlit docs in a streamlit app
-st.components.v1.iframe("https://shad0ws-imagetomusic.hf.space", width=2000, height=650, scrolling=False)
+st.components.v1.iframe("https://shad0ws-imagetomusic.hf.space", width=1500, height=650, scrolling=True)
